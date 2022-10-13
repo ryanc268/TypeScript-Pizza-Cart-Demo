@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ES6",
+    "strict": true,
+    "noEmit": false, //false for tsconfig true for babel
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "plugins": [{"name": "typescript-plugin-css-modules"}]
+  },
+  "include": ["./src/**/*", "custom.d.ts"]
+}
