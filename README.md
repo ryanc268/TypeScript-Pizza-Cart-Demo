@@ -6,7 +6,7 @@
   <h3 align="center">Beginner Pizza Cart App</h3>
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/ryanc268/TypeScript-Pizza-Cart-Demo">View Demo</a>
   </p>
 </div>
 
@@ -24,21 +24,21 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This was a simple project I made to practice the concepts of using React with Typescript. The core of it is just a basic menu with both normal and featured pizzas. You can click to add them to a cart which maintains state and uses localstorage to store the contents of the cart between visits. Concepts from this project will be used and built upon in future upcoming projects with much larger scope so stay tuned!
 
-Here's why:
+I took on this project to begin learning Typescript concepts, coming from only doing Javascript front-end prior.
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+Some React Features I practiced in this project were:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+- useEffect
+- useReducer
+- useContext
+- createContext
+- createRef
+- componentDidMount()
+- componentWillUnmount()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,14 +51,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Contact
 
 Ryan Coppa
 
 Email - ryan.tcoppa@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ryanc268/TypeScript-Pizza-Cart-Demo](https://github.com/ryanc268/TypeScript-Pizza-Cart-Demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
