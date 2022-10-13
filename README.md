@@ -6,7 +6,7 @@
   <h3 align="center">Beginner Pizza Cart App</h3>
 
   <p align="center">
-    <a href="https://github.com/ryanc268/TypeScript-Pizza-Cart-Demo">View Demo</a>
+    <a href="https://ryanc268-typescript-pizza-cart-demo.netlify.app/">View Demo</a>
   </p>
 </div>
 
